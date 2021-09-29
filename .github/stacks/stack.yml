@@ -72,6 +72,7 @@ github-apps:
 - slug: azure-boards
 - slug: azure-pipelines
 - slug: gittodo-app
+- slug: mockend
 
 init:
 - uses: ".github/workflows/stack-init.yaml"
