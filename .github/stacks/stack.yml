@@ -71,6 +71,7 @@ github-apps:
 - slug: greenkeeper
 - slug: azure-boards
 - slug: azure-pipelines
+- slug: gittodo-app
 
 init:
 - uses: ".github/workflows/stack-init.yaml"
