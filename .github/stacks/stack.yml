@@ -73,6 +73,7 @@ github-apps:
 - slug: azure-pipelines
 - slug: gittodo-app
 - slug: mockend
+- slug: semaphore
 
 init:
 - uses: ".github/workflows/stack-init.yaml"
