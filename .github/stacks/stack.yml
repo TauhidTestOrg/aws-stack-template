@@ -71,9 +71,6 @@ github-apps:
 - slug: greenkeeper
 - slug: azure-boards
 - slug: azure-pipelines
-- slug: gittodo-app
-- slug: mockend
-- slug: semaphore
 
 init:
 - uses: ".github/workflows/stack-init.yaml"
